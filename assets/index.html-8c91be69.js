@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2ac2e710","path":"/md/framework/","title":"Framework","lang":"zh-CN","frontmatter":{"title":"Framework","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null,"excerpt":"\\n"}');export{e as data};

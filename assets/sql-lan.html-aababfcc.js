@@ -1,0 +1,1 @@
+import{_ as a,W as s,X as t,Z as e,$ as c}from"./framework-91490e6a.js";const n={},r=e("h1",{id:"sql-语言",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sql-语言","aria-hidden":"true"},"#"),c(" SQL 语言")],-1),o=[r];function _(l,d){return s(),t("div",null,o)}const h=a(n,[["render",_],["__file","sql-lan.html.vue"]]);export{h as default};

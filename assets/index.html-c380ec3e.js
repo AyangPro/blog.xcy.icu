@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e9b4b0b4","path":"/md/db/nosql-redis/","title":"Nosql Redis","lang":"zh-CN","frontmatter":{"title":"Nosql Redis","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":null,"excerpt":"\\n"}');export{e as data};
